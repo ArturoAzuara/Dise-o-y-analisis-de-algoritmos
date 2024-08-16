@@ -11,4 +11,4 @@ for n_1 in numeros:  # Asignacion, T(n) = n
 
 print(f"Final: {combinaciones}")  # Asignacion, T(n) = 1
 
-# T(n) = 1+1+1+n+n+1+1+1 = n^2 + 6
+# T(n) = 1+1+1+n*n+1+1+1 = n^2 + 6
