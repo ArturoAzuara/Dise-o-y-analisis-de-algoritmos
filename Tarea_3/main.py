@@ -1,8 +1,10 @@
 def secfibrec(n):
     if n == 0:
-        return n
+        return 0
+    elif n == 1:
+        return 1
     else:
-        secfibrec((n - 1) + (n - 2))
+        return secfibrec(n - 1) + secfibrec(n - 2)
 
 
-print(secfibrec(5))
+print(secfibrec(6))
