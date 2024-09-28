@@ -1,0 +1,100 @@
+187895588, Carlos López, 19, carlos.lópez@aragon.unam.mx, Semestre 8, Materias: Computación Cuántica, Gestión de Proyectos, Bioinformática, Procesamiento del Lenguaje Natural, Robótica, Promedio: 8.52
+378326228, Miguel Díaz, 22, miguel.díaz@aragon.unam.mx, Semestre 5, Materias: Sistemas Distribuidos, Inteligencia Artificial, Análisis de Algoritmos, Ingeniería de Software, Optimización, Promedio: 8.94
+466214107, Roberto Morales, 22, roberto.morales@aragon.unam.mx, Semestre 4, Materias: Probabilidad, Redes de Computadoras, Teoría de la Computación, Algoritmos, Sistemas Operativos, Promedio: 5.43
+568563877, Jorge Ramírez, 21, jorge.ramírez@aragon.unam.mx, Semestre 2, Materias: Cálculo Integral, Estadística I, Programación avanzada, Álgebra Lineal, Física II, Promedio: 7.26
+894391819, Jorge Ramírez, 19, jorge.ramírez@aragon.unam.mx, Semestre 6, Materias: Seguridad Informática, Teoría de Juegos, Minería de Datos, Arquitectura de Computadoras, Computación Gráfica, Promedio: 8.3
+642338599, Ricardo Romero, 22, ricardo.romero@aragon.unam.mx, Semestre 2, Materias: Cálculo Integral, Programación avanzada, Estadística I, Física II, Álgebra Lineal, Promedio: 7.58
+202199388, Ricardo Romero, 21, ricardo.romero@aragon.unam.mx, Semestre 2, Materias: Cálculo Integral, Estadística I, Programación avanzada, Álgebra Lineal, Física II, Promedio: 6.61
+299686368, Ricardo Romero, 23, ricardo.romero@aragon.unam.mx, Semestre 2, Materias: Álgebra Lineal, Programación avanzada, Estadística I, Cálculo Integral, Física II, Promedio: 8.41
+554338781, Ricardo Romero, 23, ricardo.romero@aragon.unam.mx, Semestre 4, Materias: Sistemas Operativos, Algoritmos, Redes de Computadoras, Probabilidad, Teoría de la Computación, Promedio: 8.58
+727362402, Marta Gutiérrez, 19, marta.gutiérrez@aragon.unam.mx, Semestre 1, Materias: Introducción a la programación, Matemáticas I, Física I, Química, Cálculo Diferencial, Promedio: 7.29
+350378482, Carlos López, 18, carlos.lópez@aragon.unam.mx, Semestre 2, Materias: Álgebra Lineal, Programación avanzada, Estadística I, Cálculo Integral, Física II, Promedio: 8.21
+820822296, Marta Gutiérrez, 21, marta.gutiérrez@aragon.unam.mx, Semestre 8, Materias: Robótica, Bioinformática, Gestión de Proyectos, Computación Cuántica, Procesamiento del Lenguaje Natural, Promedio: 8.18
+535287036, Fernando Torres, 18, fernando.torres@aragon.unam.mx, Semestre 7, Materias: Aprendizaje Automático, Desarrollo Web, Criptografía, Interfaces Hombre-Máquina, Visión por Computador, Promedio: 9.4
+648225073, Elena Rivas, 20, elena.rivas@aragon.unam.mx, Semestre 2, Materias: Cálculo Integral, Álgebra Lineal, Física II, Estadística I, Programación avanzada, Promedio: 7.3
+539458799, Elena Rivas, 18, elena.rivas@aragon.unam.mx, Semestre 7, Materias: Aprendizaje Automático, Desarrollo Web, Criptografía, Visión por Computador, Interfaces Hombre-Máquina, Promedio: 8.91
+215639749, Lucía Martínez, 18, lucía.martínez@aragon.unam.mx, Semestre 5, Materias: Ingeniería de Software, Análisis de Algoritmos, Sistemas Distribuidos, Inteligencia Artificial, Optimización, Promedio: 9.57
+343110737, Sara Mendoza, 22, sara.mendoza@aragon.unam.mx, Semestre 6, Materias: Seguridad Informática, Arquitectura de Computadoras, Computación Gráfica, Minería de Datos, Teoría de Juegos, Promedio: 6.41
+520979598, Isabel Vázquez, 19, isabel.vázquez@aragon.unam.mx, Semestre 4, Materias: Redes de Computadoras, Probabilidad, Algoritmos, Sistemas Operativos, Teoría de la Computación, Promedio: 6.37
+662605937, Ana Fernández, 19, ana.fernández@aragon.unam.mx, Semestre 6, Materias: Teoría de Juegos, Seguridad Informática, Arquitectura de Computadoras, Computación Gráfica, Minería de Datos, Promedio: 8.62
+735444341, Sara Mendoza, 21, sara.mendoza@aragon.unam.mx, Semestre 3, Materias: Cálculo Vectorial, Programación Orientada a Objetos, Bases de Datos, Matemáticas Discretas, Estructuras de Datos, Promedio: 7.95
+728919366, Sara Mendoza, 21, sara.mendoza@aragon.unam.mx, Semestre 1, Materias: Introducción a la programación, Física I, Cálculo Diferencial, Matemáticas I, Química, Promedio: 9.49
+242320035, Marta Gutiérrez, 22, marta.gutiérrez@aragon.unam.mx, Semestre 6, Materias: Computación Gráfica, Seguridad Informática, Teoría de Juegos, Arquitectura de Computadoras, Minería de Datos, Promedio: 7.41
+715499263, Roberto Morales, 21, roberto.morales@aragon.unam.mx, Semestre 5, Materias: Ingeniería de Software, Inteligencia Artificial, Sistemas Distribuidos, Análisis de Algoritmos, Optimización, Promedio: 7.74
+520062144, Carlos López, 18, carlos.lópez@aragon.unam.mx, Semestre 3, Materias: Matemáticas Discretas, Cálculo Vectorial, Programación Orientada a Objetos, Estructuras de Datos, Bases de Datos, Promedio: 8.18
+320042188, Isabel Vázquez, 23, isabel.vázquez@aragon.unam.mx, Semestre 1, Materias: Matemáticas I, Introducción a la programación, Química, Cálculo Diferencial, Física I, Promedio: 9.5
+869819069, Carlos López, 18, carlos.lópez@aragon.unam.mx, Semestre 4, Materias: Sistemas Operativos, Algoritmos, Probabilidad, Redes de Computadoras, Teoría de la Computación, Promedio: 7.09
+882019871, Laura Gómez, 21, laura.gómez@aragon.unam.mx, Semestre 1, Materias: Química, Introducción a la programación, Cálculo Diferencial, Matemáticas I, Física I, Promedio: 7.31
+544565092, Ricardo Romero, 20, ricardo.romero@aragon.unam.mx, Semestre 9, Materias: Análisis de Imágenes, Blockchain, Sistemas Embebidos, Ciberseguridad, Investigación Operativa, Promedio: 9.79
+225711368, Laura Gómez, 21, laura.gómez@aragon.unam.mx, Semestre 9, Materias: Análisis de Imágenes, Blockchain, Sistemas Embebidos, Ciberseguridad, Investigación Operativa, Promedio: 5.29
+579001017, Roberto Morales, 20, roberto.morales@aragon.unam.mx, Semestre 8, Materias: Robótica, Gestión de Proyectos, Bioinformática, Procesamiento del Lenguaje Natural, Computación Cuántica, Promedio: 5.81
+455212140, Isabel Vázquez, 21, isabel.vázquez@aragon.unam.mx, Semestre 7, Materias: Desarrollo Web, Interfaces Hombre-Máquina, Aprendizaje Automático, Criptografía, Visión por Computador, Promedio: 6.88
+209924452, Jorge Ramírez, 19, jorge.ramírez@aragon.unam.mx, Semestre 8, Materias: Bioinformática, Robótica, Computación Cuántica, Gestión de Proyectos, Procesamiento del Lenguaje Natural, Promedio: 8.73
+590055871, Elena Rivas, 22, elena.rivas@aragon.unam.mx, Semestre 7, Materias: Criptografía, Desarrollo Web, Aprendizaje Automático, Interfaces Hombre-Máquina, Visión por Computador, Promedio: 5.14
+332667272, Isabel Vázquez, 22, isabel.vázquez@aragon.unam.mx, Semestre 5, Materias: Análisis de Algoritmos, Sistemas Distribuidos, Inteligencia Artificial, Optimización, Ingeniería de Software, Promedio: 6.53
+922565295, Ricardo Romero, 23, ricardo.romero@aragon.unam.mx, Semestre 5, Materias: Sistemas Distribuidos, Ingeniería de Software, Inteligencia Artificial, Análisis de Algoritmos, Optimización, Promedio: 6.44
+970069826, Carlos López, 22, carlos.lópez@aragon.unam.mx, Semestre 3, Materias: Bases de Datos, Estructuras de Datos, Cálculo Vectorial, Matemáticas Discretas, Programación Orientada a Objetos, Promedio: 9.17
+687972894, Jorge Ramírez, 22, jorge.ramírez@aragon.unam.mx, Semestre 4, Materias: Sistemas Operativos, Teoría de la Computación, Algoritmos, Probabilidad, Redes de Computadoras, Promedio: 7.99
+962365084, Fernando Torres, 23, fernando.torres@aragon.unam.mx, Semestre 1, Materias: Matemáticas I, Física I, Química, Cálculo Diferencial, Introducción a la programación, Promedio: 5.16
+159166106, Juan Pérez, 22, juan.pérez@aragon.unam.mx, Semestre 4, Materias: Teoría de la Computación, Probabilidad, Algoritmos, Sistemas Operativos, Redes de Computadoras, Promedio: 7.79
+840030865, Jorge Ramírez, 21, jorge.ramírez@aragon.unam.mx, Semestre 9, Materias: Análisis de Imágenes, Ciberseguridad, Blockchain, Investigación Operativa, Sistemas Embebidos, Promedio: 9.12
+760009532, Fernando Torres, 20, fernando.torres@aragon.unam.mx, Semestre 8, Materias: Bioinformática, Computación Cuántica, Gestión de Proyectos, Procesamiento del Lenguaje Natural, Robótica, Promedio: 5.41
+680102201, Lucía Martínez, 20, lucía.martínez@aragon.unam.mx, Semestre 2, Materias: Álgebra Lineal, Estadística I, Programación avanzada, Cálculo Integral, Física II, Promedio: 9.63
+396146886, Roberto Morales, 19, roberto.morales@aragon.unam.mx, Semestre 8, Materias: Robótica, Procesamiento del Lenguaje Natural, Gestión de Proyectos, Computación Cuántica, Bioinformática, Promedio: 6.97
+942826347, Ana Fernández, 21, ana.fernández@aragon.unam.mx, Semestre 7, Materias: Criptografía, Interfaces Hombre-Máquina, Desarrollo Web, Visión por Computador, Aprendizaje Automático, Promedio: 7.1
+161622542, María García, 20, maría.garcía@aragon.unam.mx, Semestre 5, Materias: Inteligencia Artificial, Ingeniería de Software, Análisis de Algoritmos, Sistemas Distribuidos, Optimización, Promedio: 9.32
+386914262, Ricardo Romero, 23, ricardo.romero@aragon.unam.mx, Semestre 6, Materias: Arquitectura de Computadoras, Seguridad Informática, Minería de Datos, Teoría de Juegos, Computación Gráfica, Promedio: 8.67
+131433956, Luis Sánchez, 20, luis.sánchez@aragon.unam.mx, Semestre 6, Materias: Arquitectura de Computadoras, Seguridad Informática, Computación Gráfica, Teoría de Juegos, Minería de Datos, Promedio: 8.95
+621462053, Lucía Martínez, 22, lucía.martínez@aragon.unam.mx, Semestre 5, Materias: Ingeniería de Software, Optimización, Inteligencia Artificial, Sistemas Distribuidos, Análisis de Algoritmos, Promedio: 9.92
+138125810, Sofía Castro, 22, sofía.castro@aragon.unam.mx, Semestre 1, Materias: Cálculo Diferencial, Física I, Introducción a la programación, Química, Matemáticas I, Promedio: 5.98
+606614050, Hugo Hernández, 23, hugo.hernández@aragon.unam.mx, Semestre 7, Materias: Aprendizaje Automático, Desarrollo Web, Criptografía, Visión por Computador, Interfaces Hombre-Máquina, Promedio: 9.42
+483155235, Roberto Morales, 22, roberto.morales@aragon.unam.mx, Semestre 7, Materias: Aprendizaje Automático, Visión por Computador, Desarrollo Web, Interfaces Hombre-Máquina, Criptografía, Promedio: 9.98
+828389869, Marta Gutiérrez, 18, marta.gutiérrez@aragon.unam.mx, Semestre 9, Materias: Sistemas Embebidos, Investigación Operativa, Análisis de Imágenes, Blockchain, Ciberseguridad, Promedio: 9.56
+406452506, Miguel Díaz, 21, miguel.díaz@aragon.unam.mx, Semestre 2, Materias: Álgebra Lineal, Programación avanzada, Cálculo Integral, Física II, Estadística I, Promedio: 6.84
+133416077, Laura Gómez, 23, laura.gómez@aragon.unam.mx, Semestre 2, Materias: Estadística I, Programación avanzada, Álgebra Lineal, Cálculo Integral, Física II, Promedio: 6.54
+909017577, Fernando Torres, 21, fernando.torres@aragon.unam.mx, Semestre 8, Materias: Computación Cuántica, Gestión de Proyectos, Robótica, Procesamiento del Lenguaje Natural, Bioinformática, Promedio: 9.47
+538906278, María García, 23, maría.garcía@aragon.unam.mx, Semestre 6, Materias: Teoría de Juegos, Arquitectura de Computadoras, Seguridad Informática, Minería de Datos, Computación Gráfica, Promedio: 6.92
+664319290, María García, 22, maría.garcía@aragon.unam.mx, Semestre 4, Materias: Probabilidad, Sistemas Operativos, Teoría de la Computación, Algoritmos, Redes de Computadoras, Promedio: 5.64
+809305769, Juan Pérez, 23, juan.pérez@aragon.unam.mx, Semestre 4, Materias: Teoría de la Computación, Probabilidad, Sistemas Operativos, Redes de Computadoras, Algoritmos, Promedio: 9.67
+170075251, Roberto Morales, 21, roberto.morales@aragon.unam.mx, Semestre 4, Materias: Redes de Computadoras, Algoritmos, Sistemas Operativos, Teoría de la Computación, Probabilidad, Promedio: 7.16
+470344676, Isabel Vázquez, 22, isabel.vázquez@aragon.unam.mx, Semestre 3, Materias: Bases de Datos, Cálculo Vectorial, Programación Orientada a Objetos, Matemáticas Discretas, Estructuras de Datos, Promedio: 9.45
+910130633, Sara Mendoza, 19, sara.mendoza@aragon.unam.mx, Semestre 9, Materias: Ciberseguridad, Análisis de Imágenes, Sistemas Embebidos, Blockchain, Investigación Operativa, Promedio: 7.94
+169315480, Hugo Hernández, 20, hugo.hernández@aragon.unam.mx, Semestre 2, Materias: Estadística I, Cálculo Integral, Álgebra Lineal, Física II, Programación avanzada, Promedio: 9.46
+380779705, Carmen Ortega, 19, carmen.ortega@aragon.unam.mx, Semestre 8, Materias: Procesamiento del Lenguaje Natural, Computación Cuántica, Robótica, Gestión de Proyectos, Bioinformática, Promedio: 7.35
+580889617, Sara Mendoza, 22, sara.mendoza@aragon.unam.mx, Semestre 7, Materias: Aprendizaje Automático, Desarrollo Web, Criptografía, Visión por Computador, Interfaces Hombre-Máquina, Promedio: 5.09
+425957880, Roberto Morales, 22, roberto.morales@aragon.unam.mx, Semestre 1, Materias: Matemáticas I, Cálculo Diferencial, Introducción a la programación, Física I, Química, Promedio: 5.26
+729743667, Juan Pérez, 20, juan.pérez@aragon.unam.mx, Semestre 5, Materias: Inteligencia Artificial, Optimización, Análisis de Algoritmos, Ingeniería de Software, Sistemas Distribuidos, Promedio: 8.68
+501759205, Miguel Díaz, 19, miguel.díaz@aragon.unam.mx, Semestre 3, Materias: Estructuras de Datos, Programación Orientada a Objetos, Cálculo Vectorial, Bases de Datos, Matemáticas Discretas, Promedio: 8.74
+427145345, Pedro Ruiz, 20, pedro.ruiz@aragon.unam.mx, Semestre 5, Materias: Optimización, Ingeniería de Software, Análisis de Algoritmos, Inteligencia Artificial, Sistemas Distribuidos, Promedio: 5.09
+381964365, Laura Gómez, 22, laura.gómez@aragon.unam.mx, Semestre 8, Materias: Robótica, Procesamiento del Lenguaje Natural, Bioinformática, Gestión de Proyectos, Computación Cuántica, Promedio: 7.15
+741516698, Jorge Ramírez, 21, jorge.ramírez@aragon.unam.mx, Semestre 3, Materias: Bases de Datos, Cálculo Vectorial, Programación Orientada a Objetos, Estructuras de Datos, Matemáticas Discretas, Promedio: 7.46
+231812971, Jorge Ramírez, 22, jorge.ramírez@aragon.unam.mx, Semestre 5, Materias: Sistemas Distribuidos, Inteligencia Artificial, Ingeniería de Software, Optimización, Análisis de Algoritmos, Promedio: 8.54
+279373261, Roberto Morales, 19, roberto.morales@aragon.unam.mx, Semestre 2, Materias: Programación avanzada, Cálculo Integral, Física II, Estadística I, Álgebra Lineal, Promedio: 7.91
+163960955, Jorge Ramírez, 18, jorge.ramírez@aragon.unam.mx, Semestre 4, Materias: Redes de Computadoras, Probabilidad, Algoritmos, Teoría de la Computación, Sistemas Operativos, Promedio: 6.35
+991492056, Lucía Martínez, 21, lucía.martínez@aragon.unam.mx, Semestre 1, Materias: Cálculo Diferencial, Física I, Introducción a la programación, Matemáticas I, Química, Promedio: 8.04
+400942925, Carlos López, 22, carlos.lópez@aragon.unam.mx, Semestre 4, Materias: Teoría de la Computación, Redes de Computadoras, Algoritmos, Sistemas Operativos, Probabilidad, Promedio: 5.22
+224460445, Jorge Ramírez, 23, jorge.ramírez@aragon.unam.mx, Semestre 3, Materias: Matemáticas Discretas, Programación Orientada a Objetos, Bases de Datos, Cálculo Vectorial, Estructuras de Datos, Promedio: 6.35
+580189066, Marta Gutiérrez, 23, marta.gutiérrez@aragon.unam.mx, Semestre 1, Materias: Física I, Matemáticas I, Química, Introducción a la programación, Cálculo Diferencial, Promedio: 9.61
+997060266, Hugo Hernández, 22, hugo.hernández@aragon.unam.mx, Semestre 6, Materias: Teoría de Juegos, Seguridad Informática, Minería de Datos, Arquitectura de Computadoras, Computación Gráfica, Promedio: 5.45
+699725288, María García, 19, maría.garcía@aragon.unam.mx, Semestre 6, Materias: Arquitectura de Computadoras, Minería de Datos, Seguridad Informática, Computación Gráfica, Teoría de Juegos, Promedio: 7.82
+245747877, Fernando Torres, 19, fernando.torres@aragon.unam.mx, Semestre 2, Materias: Cálculo Integral, Física II, Álgebra Lineal, Estadística I, Programación avanzada, Promedio: 8.08
+703948973, Elena Rivas, 19, elena.rivas@aragon.unam.mx, Semestre 9, Materias: Sistemas Embebidos, Blockchain, Análisis de Imágenes, Investigación Operativa, Ciberseguridad, Promedio: 7.65
+701315326, Ana Fernández, 19, ana.fernández@aragon.unam.mx, Semestre 3, Materias: Matemáticas Discretas, Estructuras de Datos, Programación Orientada a Objetos, Cálculo Vectorial, Bases de Datos, Promedio: 8.71
+356111325, Isabel Vázquez, 18, isabel.vázquez@aragon.unam.mx, Semestre 8, Materias: Gestión de Proyectos, Bioinformática, Robótica, Procesamiento del Lenguaje Natural, Computación Cuántica, Promedio: 9.15
+515994140, María García, 18, maría.garcía@aragon.unam.mx, Semestre 5, Materias: Análisis de Algoritmos, Optimización, Ingeniería de Software, Inteligencia Artificial, Sistemas Distribuidos, Promedio: 9.6
+169230431, Jorge Ramírez, 21, jorge.ramírez@aragon.unam.mx, Semestre 1, Materias: Física I, Introducción a la programación, Cálculo Diferencial, Química, Matemáticas I, Promedio: 9.5
+201335626, Miguel Díaz, 21, miguel.díaz@aragon.unam.mx, Semestre 6, Materias: Computación Gráfica, Minería de Datos, Teoría de Juegos, Arquitectura de Computadoras, Seguridad Informática, Promedio: 9.33
+242417605, María García, 19, maría.garcía@aragon.unam.mx, Semestre 4, Materias: Probabilidad, Redes de Computadoras, Algoritmos, Sistemas Operativos, Teoría de la Computación, Promedio: 7.46
+889443574, Isabel Vázquez, 22, isabel.vázquez@aragon.unam.mx, Semestre 7, Materias: Aprendizaje Automático, Criptografía, Interfaces Hombre-Máquina, Visión por Computador, Desarrollo Web, Promedio: 7.39
+581548245, Hugo Hernández, 23, hugo.hernández@aragon.unam.mx, Semestre 3, Materias: Bases de Datos, Programación Orientada a Objetos, Cálculo Vectorial, Matemáticas Discretas, Estructuras de Datos, Promedio: 5.37
+805436188, Jorge Ramírez, 21, jorge.ramírez@aragon.unam.mx, Semestre 3, Materias: Estructuras de Datos, Programación Orientada a Objetos, Cálculo Vectorial, Matemáticas Discretas, Bases de Datos, Promedio: 5.71
+282859778, Elena Rivas, 21, elena.rivas@aragon.unam.mx, Semestre 4, Materias: Sistemas Operativos, Algoritmos, Teoría de la Computación, Redes de Computadoras, Probabilidad, Promedio: 5.88
+444793937, María García, 21, maría.garcía@aragon.unam.mx, Semestre 2, Materias: Programación avanzada, Física II, Álgebra Lineal, Estadística I, Cálculo Integral, Promedio: 8.25
+748239996, Carmen Ortega, 19, carmen.ortega@aragon.unam.mx, Semestre 7, Materias: Aprendizaje Automático, Visión por Computador, Interfaces Hombre-Máquina, Criptografía, Desarrollo Web, Promedio: 6.96
+301276909, Roberto Morales, 18, roberto.morales@aragon.unam.mx, Semestre 1, Materias: Introducción a la programación, Física I, Cálculo Diferencial, Química, Matemáticas I, Promedio: 9.09
+754811196, Lucía Martínez, 21, lucía.martínez@aragon.unam.mx, Semestre 3, Materias: Cálculo Vectorial, Bases de Datos, Estructuras de Datos, Matemáticas Discretas, Programación Orientada a Objetos, Promedio: 5.26
+347296573, Jorge Ramírez, 23, jorge.ramírez@aragon.unam.mx, Semestre 9, Materias: Análisis de Imágenes, Blockchain, Investigación Operativa, Ciberseguridad, Sistemas Embebidos, Promedio: 7.23
+107169031, Luis Sánchez, 19, luis.sánchez@aragon.unam.mx, Semestre 8, Materias: Computación Cuántica, Gestión de Proyectos, Robótica, Bioinformática, Procesamiento del Lenguaje Natural, Promedio: 9.74
+785697282, Fernando Torres, 23, fernando.torres@aragon.unam.mx, Semestre 2, Materias: Estadística I, Física II, Cálculo Integral, Programación avanzada, Álgebra Lineal, Promedio: 7.34
+627196751, Roberto Morales, 18, roberto.morales@aragon.unam.mx, Semestre 1, Materias: Física I, Química, Introducción a la programación, Matemáticas I, Cálculo Diferencial, Promedio: 9.95
+680907443, Elena Rivas, 19, elena.rivas@aragon.unam.mx, Semestre 1, Materias: Introducción a la programación, Física I, Cálculo Diferencial, Matemáticas I, Química, Promedio: 8.11
