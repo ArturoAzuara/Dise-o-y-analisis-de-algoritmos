@@ -36,7 +36,7 @@ def div_list(lista_numeros):
         return max_producto, num1, num2  # O(1)
 
 
-A = [-9, 3, 5, -2, 9, -7, 4, 8, 6]
+A = []
 max_producto, num1, num2 = div_list(A)  # O(n^2)
 print(f"Los números cuyo producto es más alto son: {num1} x {num2} = {max_producto}")
 
