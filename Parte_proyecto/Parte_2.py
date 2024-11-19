@@ -41,8 +41,3 @@ visitadas = set()
 backtrack(0, 0, ruta_inicial, visitadas)
 
 print(f"\nTotal de rutas encontradas: {len(rutas)}")
-
-
-
-
-
