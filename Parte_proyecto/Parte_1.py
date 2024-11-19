@@ -46,6 +46,6 @@ visitadas = set()
 if not backtrack(0, 0, ruta_inicial, visitadas):
     print("\nNo se encontró un camino válido.")
 else:
-    print(f"\nTotal de rutas encontradas: 1")
+    print("\nSe encontró un camino válido.")
 
 #
